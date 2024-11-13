@@ -17,6 +17,4 @@ AnimeGoat is an anime streaming app that allows users to watch their favorite an
 
 ## DMCA Disclaimer
 
-AnimeGoat does not host or provide any anime content directly. The app links to third-party websites that may host copyrighted material. If you believe that any content linked through AnimeGoat infringes your copyright, please raise an issue on our [GitHub repository](#) or contact us directly.
-
-We will promptly address any legitimate concerns in accordance with the DMCA.
+AnimeGoat does not host or provide any anime content directly. The app merely acts as a link to third-party websites that may host copyrighted material. All content linked through AnimeGoat is intended for educational purposes only, and AnimeGoat is not responsible for the availability or legality of such content on external sites. 
