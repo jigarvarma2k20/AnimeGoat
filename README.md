@@ -13,3 +13,10 @@ AnimeGoat is an anime streaming app that allows users to watch their favorite an
 - **User-Friendly Interface**: Easy-to-navigate app with smooth playback controls and episode management.
 - **Quick Search**: Quickly search for your favorite anime using the integrated search feature.
 - **Latest Content**: Get the latest episodes and anime releases as soon as they're available.
+
+
+## DMCA Disclaimer
+
+AnimeGoat does not host or provide any anime content directly. The app links to third-party websites that may host copyrighted material. If you believe that any content linked through AnimeGoat infringes your copyright, please raise an issue on our [GitHub repository](#) or contact us directly.
+
+We will promptly address any legitimate concerns in accordance with the DMCA.
